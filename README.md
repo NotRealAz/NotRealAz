@@ -21,10 +21,10 @@
   </tr>
   <tr>
     <td><a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="55" height="60"/></a></td>
-    <td><a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" title="Rust" alt="Rust" width="55" height="55"/></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C++" width="50" height="60"/></a></td>
+    <td><a href="https://www.rust-lang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" title="Rust" alt="Rust" height="55"/></a></td>
     <td><a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="Node.js" alt="Node.js" width="90" height="60"/></a></td>
-    <td><a href="https://lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" title="Lua" alt="Lua" width="55" height="55"/></a></td>
+    <td><a href="https://lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" alt="Lua" width="55" height="55"/></a></td>
     <td><a href="https://luau-lang.org/"><img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" title="Luau" alt="Luau" width="55" height="55"/></a></td>
   </tr>
 </table>
