@@ -22,10 +22,10 @@
   <tr>
     <td><a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></a></td>
     <td><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="55" height="60"/></a></td>
-    <td><img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" title="Rust" alt="Rust" width="55" height="55"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="Node.js" alt="Node.js" width="90" height="60"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" title="Lua" alt="Lua" width="55" height="55"/></td>
-    <td><img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" title="Luau" alt="Luau" width="55" height="55"/></td>
+    <td><a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" title="Rust" alt="Rust" width="55" height="55"/></a></td>
+    <td><a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="Node.js" alt="Node.js" width="90" height="60"/></a></td>
+    <td><a href="https://lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" title="Lua" alt="Lua" width="55" height="55"/></a></td>
+    <td><a href="https://luau-lang.org/"><img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" title="Luau" alt="Luau" width="55" height="55"/></a></td>
   </tr>
 </table>
 
@@ -42,9 +42,9 @@
   <tr>
     <td><a href="https://tauri.app/"><img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" title="Tauri" alt="Tauri" width="55" height="55"/></a></td>
     <td><a href="https://en.wikipedia.org/wiki/Flask_(web_framework)"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSMkat3wWKR6ke_PFliKlBbTEunnnjr5bMdva41vL8lAChIrHpQhhlQ_eZNyVuL9SIqs&usqp=CAU" title="Flask" alt="Flask" width="60" height="60"/></a></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg/640px-L%C3%96VE_app_icon_%280.10.1%29.svg.png" title="Love2D" alt="Love2D" width="55" height="55"/></td>
-    <td><img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame" alt="Pygame" width=auto height="60"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" title="React" alt="React" width="60" height="55"/></td>
+    <td><a href="https://love2d.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg/640px-L%C3%96VE_app_icon_%280.10.1%29.svg.png" title="Love2D" alt="Love2D" width="55" height="55"/></a></td>
+    <td><a href="https://www.pygame.org/"> <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame" alt="Pygame" width=auto height="60"/></a></td>
+    <td><a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" title="React" alt="React" width="60" height="55"/></a></td>
   </tr>
 </table>
 
