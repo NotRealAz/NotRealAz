@@ -18,6 +18,7 @@
     <td>Node.js / JS</td>
     <td>Lua</td>
     <td>Luau</td>
+    <td>C#</td>
   </tr>
   <tr>
     <td><a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></a></td>
@@ -26,6 +27,7 @@
     <td><a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="Node.js" alt="Node.js" width="90" height="60"/></a></td>
     <td><a href="https://lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" alt="Lua" width="55" height="55"/></a></td>
     <td><a href="https://luau-lang.org/"><img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" title="Luau" alt="Luau" width="55" height="55"/></a></td>
+    <td><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://iconduck.com/vectors/vctrlpj8go3g/media/svg/download" title="C#" alt="C#" width="55" height="50"/></td>
   </tr>
 </table>
 
@@ -38,6 +40,7 @@
     <td>Love2D</td>
     <td>Pygame</td>
     <td>React</td>
+    <td>.Net</td>
   </tr>
   <tr>
     <td><a href="https://tauri.app/"><img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" title="Tauri" alt="Tauri" width="55" height="55"/></a></td>
@@ -45,6 +48,7 @@
     <td><a href="https://love2d.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg/640px-L%C3%96VE_app_icon_%280.10.1%29.svg.png" title="Love2D" alt="Love2D" width="55" height="55"/></a></td>
     <td><a href="https://www.pygame.org/"> <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame" alt="Pygame" width=auto height="60"/></a></td>
     <td><a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" title="React" alt="React" width="60" height="55"/></a></td>
+    <td><a><img src="https://repository-images.githubusercontent.com/256338499/691efb00-8303-11ea-8c55-ab6bb5e2676a" title=".Net" alt=".Net" width="70" height="70"></td>
   </tr>
 </table>
 
