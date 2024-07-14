@@ -3,7 +3,7 @@
 ### About Me
 - 👋 Hey there, I’m @NotRealAz!
 - 💻 I’m passionate about coding, visual effects, and more.
-- 📘 Currently Learning into C++ and Rust!
+- 📘 Currently Learning C#. Python And Rust!
 - 👥 Open to collaborate on any projects.
 - 📧 Reach Out on Discord: NotRealAz Or notrealazmail@gmail.com (inquiries).
 - ⚡ Pronouns: He/Him/Any.
